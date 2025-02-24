@@ -1,5 +1,6 @@
 # ScreenMatch 2.0
 
+## Status : Under development
 A Back-End API for a streaming service website
 
 ## 📌 Index
