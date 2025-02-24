@@ -10,7 +10,6 @@ A Back-End API for a streaming service website
 - [Installation](#-installation)
 - [How to Use](#-how-to-use)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 
 ---
